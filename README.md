@@ -1,16 +1,23 @@
-## Hi there 👋
+# hi, i'm madison
 
-<!--
-**madisonseal/madisonseal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Third Year Computer Science student at Northeastern University  
+Currently looking for a full-stack / software engineering co-op (Fall, 4 months)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## what i'm doing
+
+- Web development for **TwoCents** (Northeastern startup) through Scout  
+- Reviewing **Theory of Computation** (automata, reductions, decidability)  
+- Strengthening core CS fundamentals in preparation for co-op  
+
+---
+
+## tech stack
+
+```txt
+frontend:  react, typescript, html/css  
+backend:   node.js, express  
+tools:     git, github  
+
+familiar:  redux, zustand
