@@ -19,6 +19,6 @@ currently looking for a full-stack / software engineering co-op (fall, 4 months)
 frontend:  react, typescript, html/css  
 backend:   node.js, express, flask
 other:     python, java
-tools:     git, github  
+tools:     git, github, figma, claude code 
 
-familiar:  redux, zustand
+familiar:  redux, zustand, c/c++, aws tools
