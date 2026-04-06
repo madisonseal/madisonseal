@@ -1,14 +1,14 @@
 # hi, i'm madison
 
-third year computer science student at Northeastern University  
-currently looking for a full-stack / software engineering co-op (Fall, 4 months)
+third year computer science student at northeastern university  
+currently looking for a full-stack / software engineering co-op (fall, 4 months)
 
 ---
 
 ## what i'm doing
 
-- web development for **TwoCents** (Northeastern startup) through Scout  
-- reviewing **Theory of Computation** (automata, reductions, decidability)  
+- web development for **TwoCents** (northeastern startup) through Scout  
+- reviewing **theory of computation** (automata, reductions, decidability)  
 - strengthening core CS fundamentals in preparation for co-op  
 
 ---
