@@ -13,6 +13,15 @@ currently looking for a full-stack / software engineering co-op (fall, 4 months)
 
 ---
 
+## projects 
+[TwoCents](https://github.com/Scout-NU/TwoCents): Building a user-centered web-application for a financial literacy mobile-app for a financial literacy app targeting
+Gen Z, using AI tooling to give personalized money management advice.
+
+[BaselineTech](https://github.com/Scout-NU/baseline-tech-website): Collaborate with Scout, Northeastern’s student-led design studio, to build a production web application for Baseline
+Tech, a smart wearables company in the snow sports space.
+
+---
+
 ## tech stack
 
 ```txt
